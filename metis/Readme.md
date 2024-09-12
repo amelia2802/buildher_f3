@@ -18,9 +18,8 @@ This is a solution to the buildHer Metis workshop task.
 
 
 ### Screenshot
+![Screenshot (86)](https://github.com/user-attachments/assets/b3854414-6a4d-4636-98ea-bb6efb375cb8)
 ![Screenshot 2024-09-11 011418](https://github.com/user-attachments/assets/0ec4cfed-882b-44a5-b2b1-4948c31ae27f)
-
-
 
 ## Author
 
