@@ -18,8 +18,10 @@ This is a solution to the buildHer aleo workshop task.
 
 
 ### Screenshot
-![Screenshot (84)](https://github.com/user-attachments/assets/aa4292c2-ec45-48a8-be7f-95d0e7b325d8)
-![Screenshot (85)](https://github.com/user-attachments/assets/f247aa18-bb31-4ef0-a185-e791dacce32a)
+![Screenshot (89)](https://github.com/user-attachments/assets/bb07638d-cdd9-48ce-9cb9-2423dcf47562)
+![Screenshot (90)](https://github.com/user-attachments/assets/0a02c4fa-0e3e-46cd-b034-2825c22326cf)
+![Screenshot 2024-09-12 193013](https://github.com/user-attachments/assets/f1ca34cb-187d-40db-bfdd-8f398673f1ab)
+
 
 
 ## Author
